@@ -3,7 +3,7 @@
 * **Course:** IAM751/851
 * **Website:** The class notes etc. will go on the [Course Wiki Page](https://github.com/unh-hpc-2021/class/wiki)
 * **Instructor:** Kai Germaschewski, [kai.germaschewski@unh.edu](mailto:kai.germaschewski@unh.edu), Morse 245E
-* **Office Hourse:** Morse 245E, Tue 10-11am, Wed 2-3pm
+* **Office Hours:** Morse 245E, Tue 10-11am, Wed 2-3pm
 * **Slack URL** https://unhhpc2021.slack.com/ (Sign up [here](https://join.slack.com/t/unhhpc2021/shared_invite/zt-lrudd9fo-utpC6qf1LCs7MhPsHtN0uA))
 * **Need help?**
    * Ask on [Slack](https://unhhpc2021.slack.com/).
