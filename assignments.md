@@ -17,3 +17,8 @@ Do the homework from the Class 4 notes (which involves going part-way back into 
 
 * Do the homework from the Class 6 notes.
 * Sign up for a presentation on the Presentations wiki page
+
+### HW4 (due 3/9 before class)
+
+* Finish the bowling game from Class 7, and submit your work on github.
+* No need to hand this in at this point, but try to also go through the "Your turn" from Class 8 as far as you can, as we'll continue from there next week.
