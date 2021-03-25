@@ -30,3 +30,8 @@ Do the homework from the Class 4 notes (which involves going part-way back into 
 ### HW6 (due 3/23 before class)
 
 * Do the homework from class 12 -- the first part is just writing a report of what happened, for the 2nd part you want to continue the report, but also commit the changes you made to the code.
+
+### HW7 (due 3/30 before class)
+
+* Do the homework from class 14 -- commit your changes and add a report of what the output of the tests was (and why). 
+
