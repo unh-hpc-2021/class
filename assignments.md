@@ -35,7 +35,7 @@ Do the homework from the Class 4 notes (which involves going part-way back into 
 
 * Do the homework from class 14 -- commit your changes and add a report of what the output of the tests was (and why). 
 
-### HW7 (due 3/30 before class)
+### HW8 (due 4/6 before class)
 
 * Do the in-class exercises / homework from class 16 -- commit your changes and add a report of what timing you got, and whether that matches what you expected. On the last part, `test_integrate` just parallelize the `for` loop and see what happens.
 
