@@ -42,3 +42,8 @@ Do the homework from the Class 4 notes (which involves going part-way back into 
 ### HW9 (due 4/15 before class)
 
 * Do the in-class exercises / homework from class 18 -- this work is done in the assignment repo from class 17.
+
+### HW10 (due 4/22 before class)
+
+* Do the in-class exercises / homework from class 19.
+
