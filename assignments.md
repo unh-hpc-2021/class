@@ -47,3 +47,7 @@ Do the homework from the Class 4 notes (which involves going part-way back into 
 
 * Do the in-class exercises / homework from class 19.
 
+### HW11 (due 4/27 before class)
+
+* Do the in-class exercises / homework from class 21.
+
