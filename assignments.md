@@ -54,5 +54,4 @@ Do the homework from the Class 4 notes (which involves going part-way back into 
 ### HW12 (due 5/4 before class) **LAST HOMEWORK!**
 
 * Finish the in-class exercises from class 22/23, ie., fill the ghost points correctly using MPI communication and then solve the wave equation in parallel (you can use my code that I linked to, but it's only working in serial right now.)
-* 
-
+* Email me your proposed topic for project 2.
